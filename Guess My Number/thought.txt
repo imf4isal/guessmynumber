@@ -1,0 +1,14 @@
+
+// thought:
+/*
+ # decraesing score if guess is wrong
+ -first check - if score is number or not 
+ -if not, then convert it into number
+ -then decrement it by score-- when its too high or too low. 
+// this process dont work.we have to declare initial score value
+
+
+# set high score as equal show score, when showscore is greater than existing high score.
+
+
+*/
